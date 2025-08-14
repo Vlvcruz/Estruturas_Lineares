@@ -1,7 +1,8 @@
 # Array-Vetor-Java
-Realização de atividade em sala de aula, utilizando Array e vetor em java
+Realização de atividades em sala de aula, utilizando java
 
 Participantes 
 
 Vitor Leon RGM: 11222100326
+
 Victor Nogueira RGM: 11222100530
