@@ -1,4 +1,4 @@
-# Array-Vetor-Java
+# Estruturas Lineares
 Realização de atividades em sala de aula, utilizando java
 
 Participantes 
